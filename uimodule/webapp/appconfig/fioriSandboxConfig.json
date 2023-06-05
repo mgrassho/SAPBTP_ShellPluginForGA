@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"gaflpplugin": {
+			"component": "com.sap.btp.co.gaflpplugin",
+			"url": "../../../../../"
+		}
+	}
+}
